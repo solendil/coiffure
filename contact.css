@@ -1,0 +1,13 @@
+#contact-page {
+    background-image: url(photo/12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+        background-size: cover;
+        background-position: center;
+        filter: brightness(.8s);
+        backdrop-filter: blur(50%);
+      
+      
+  }
+  
